@@ -1,0 +1,25 @@
+
+.container{ width:75%;
+    background: black;
+    color:white;
+    border:5px solid black;
+    box-shadow: 10px 10px 5px gray;
+}
+.slide {
+    background: red;
+}
+h2{
+    text-align: center;
+    background-color: black;
+   width:20%;
+    margin:auto;
+}
+table{margin:auto;
+width:70%;
+}
+p{
+    float:right;
+    display: inline;
+    font-size: 
+}
+.att{clear:right;}
